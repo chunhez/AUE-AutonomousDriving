@@ -14,4 +14,4 @@ For project 2, one needs to complete following tasks using another camera:
 Hardware and software requirments:
 1. Traxxs radio control truck.
 2. Arduino board.
-3. MATLAB.
+3. PC with MATLAB.
